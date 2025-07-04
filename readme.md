@@ -9,7 +9,7 @@ O layout simula um portal moderno de notícias tecnológicas, com seções desta
 
 ## 🔗 Acesse o projeto
 
-> Você pode visualizar o projeto diretamente [clicando aqui](#).
+> Você pode visualizar o projeto diretamente [clicando aqui](https://portal-de-noticias-zeta-five.vercel.app/).
 
 ---
 
@@ -98,7 +98,7 @@ Este projeto tem como objetivo praticar a estruturação semântica, organizaç�
 ## 👨‍💻 Autor
 
 Desenvolvido por **Rocketseat**
-Adaptado e implementado por **William Milanez**
+Adaptado e implementado por **William Milanez**.
 
 ---
 
